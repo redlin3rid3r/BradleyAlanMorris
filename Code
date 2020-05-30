@@ -1,0 +1,91 @@
+<style>
+#title {
+  color: black;
+  text-align: center;
+  
+}
+#opening {
+  text-align: center;
+  font-size: 18px;
+  
+}
+#img-caption {
+  text-align: center;
+}
+#tribute-info {
+  text-align: center;
+}
+.responsive-img {
+  width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+  box-shadow: 0 10px 20px rgba(0,0,0,1);
+}
+ul {
+  text-align: center;
+    list-style-position: inside;
+}
+h2 {
+  text-align: center;
+}
+#link {
+  text-align: center;
+}
+#l1 {
+  padding-right: 260px;
+}
+#l2 {
+  padding-right: 240px;
+}
+#l3 {
+  padding-left: 30px;
+}
+#l4 {
+  padding-right: 170px;
+}
+#l5 {
+  padding-right: 150px;
+}
+#main-paragraph {
+  text-align: center
+}
+body {
+  background: linear-gradient(45deg, #6BD2D6, #E6FBFC);
+  font-family: sans-serif;
+}
+</style>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Bradley Alan Morris
+    </title>
+  </head>
+  <main id="main">
+  <body>
+    <h1 class="title" id="title"> Bradley Alan Morris </h1>
+    <p id="opening"> <b><em>A father above all other fathers</em></b> </p>
+    <div id="img-div"> 
+     <img class="responsive-img" id="image" src="https://lh3.googleusercontent.com/SEEjODtY14gvrm3AJEtIjgdrZwyU93KJNqN04nRFgKeC5ZurLa2IUVFXxxNQJhl9zn3Iehrw_ocYMQsNgYxJbpwTh6CfIG1XxkkEbcIwC8WgQ_TlCm-fX9l8i448euGnSB518jwoPyPatIc8YxtLpJ4Nh6R0MoLA2s-FViNs9yHc59o8a2bhGgoi-33XNUV95qMe7GPDRUMKP-OlHCLXJE2bpZYNFdl7qbWmRcSnb1AJlArtrzOCZv8aBjuK8vf9cr01TttZao9DY7Ncx74DE4RPaQ4vhJNwLCkaLM1J1_hNHTOfdJ9SofDMa4qecee2WXT8G-5LygURp81jsZ1AM8jRfzhulY1bYe6nhYz0E9U2p2JTCFJUZwIFdYDEZGwDbXtVZb6Es1aElhyQQPE5QHgGB7KpHxGBnHCfIfo2mnNtos33NMJ05PSuBu0OTWzuz1p1l4yoxxQaNFdEZG7HLmxNp9sjk65uLVqF9_G4uRLZTi6SOImaO7Y-MyweyDRZ997yA7Wk1zNLYSX3l4dpdo5ZsXX0ysWvjggRPKGCTPh_1kUOSwt13wNMXRGgkbUVckIcf0JgiFkZnucsdlsSCAWFFirZsTs8WDsxw7hpaPXiUjyn0rH08jCzrXKZFMn7mUgRDaqaRzf99-hY2XhAfHenaKri8iZ1IH4R4kknXWWWE5Y02BTZbivLjTnU=w1000-no-tmp.jpg" alt= "Bradley Morris sitting next to his son while they look like pirates. ">
+      <p id="img-caption"> Father and son at dinner dressed as pirates
+      </p>
+    </div>
+    <h2> 
+      <p id="tribute-info"> Quick Facts </h2>
+      <ul> 
+        <li id="l1"> Born in the 70's </li>
+        <li id="l2"> Married in the 90's </li>
+        <li id="l3"> Played a vital role in creating the best son and daughters </li>
+        <li id="l4"> Formally disliked BlueMoons </li>
+        <li id="l5"> Turns into a beast when hungry </li>
+    </ul> </p>
+   <p id="link"> For more facts, <a id="tribute-link" target="_blank" href="https://www.youtube.com/watch?v=wJfCbrrGlNc">look here.</a>
+    </p>
+    <h2>What Makes A Great Father?</h2> 
+    <p id="main-paragraph"> Growing up, you don't really know if you're being raised by a good father or a bad one. Being a young and naive child, you'll pretty much take whatever is given to you. It's not until you grow up and start to reflect on who you are and what made you into the person you are today. That's what makes you realize if you had a good dad or not. Personally, I know that not only did I have a great father, I had the best one. There are an inumerable amount of different skills and tips i've been taught by my dad that I was otherwise clueless about. Sure, it may have taken me 12 years to learn to ride a bike, but guess who was right there by me. Yup, my dad. I was taught how to handle and operate tools, as well as how to fix certain things. And, judging by my belly, I always had plenty of food to eat. However, all of those things are just perks. None of that would've been possible or even mattered if it weren't for one thing: Love. My dad's love has always been felt throughout my entire life. I never once doubted that. In turn, i've always loved him back. I'm eternally grateful to have a father like this. So, I say, thank you. </p> 
+    </body>
+  </main>
